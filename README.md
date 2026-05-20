@@ -1,6 +1,31 @@
 # 🚀 Claude Shortcut Hacks & Prompting Toolkit
 
-A comprehensive guide to accelerating your engineering and prompting workflows using Claude's internal commands, advanced session management, and development toolkit. Perfect for AI engineers, researchers, and technical founders.
+<div align="center">
+  <p><strong>A comprehensive guide to accelerating your engineering and prompting workflows using Claude Code, internal commands, and advanced session management.</strong></p>
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+  [![GitHub stars](https://img.shields.io/github/stars/ishan/Awesome-Claude-Shortcuts.svg?style=social&label=Star)](https://github.com/ishan/Awesome-Claude-Shortcuts)
+</div>
+
+---
+
+## 📖 Table of Contents
+- [Overview](#-overview)
+- [⚡ 26 Claude Shortcut Hacks](#-26-claude-shortcut-hacks-for-faster-prompts)
+- [📚 Exclusive Engineering Prompt Library](#-exclusive-engineering-prompt-library)
+- [🛠️ How to Access the Library](#️-how-to-access-the-library)
+- [🤝 Contributing](#-contributing)
+- [⚖️ License](#️-license)
+
+---
+
+## 🌟 Overview
+
+Welcome to the ultimate resource for **Claude Code** and **Prompt Engineering**. This repository is designed for AI engineers, researchers, and technical founders who want to master the Claude CLI and maximize their productivity with **Claude 3.5 Sonnet** and other Anthropic models.
+
+Whether you're looking for internal commands, **Model Context Protocol (MCP)** configurations, or advanced state management, this toolkit has you covered.
 
 ---
 
@@ -51,4 +76,21 @@ Follow these four sequential steps to unlock the repository assets and video dee
 4. **Deploy Assets:** Instantly receive your fully decoupled prompt engineering library along with a bonus operational walkthrough video.
 
 ---
-*Contributions, issues, and optimization PRs are welcome. Star this repository to keep these shortcuts at hand.*# Awesome-Claude-Shortcuts
+
+## 🤝 Contributing
+Contributions, issues, and optimization PRs are welcome! Feel free to:
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+---
+
+## ⚖️ License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+<div align="center">
+  <em>Star this repository to keep these shortcuts at hand!</em>
+</div>
