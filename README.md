@@ -91,10 +91,13 @@ Contributions, issues, and optimization PRs are welcome! Feel free to:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-<div align="center">
-  <em>Star this repository to keep these shortcuts at hand!</em>
-</div>
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Claude-Shortcuts&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Claude-Shortcuts&type=date&legend=top-left)
+
+---
+
+<div align="center">
+  <em>Star this repository to keep these shortcuts at hand!</em>
+</div>
